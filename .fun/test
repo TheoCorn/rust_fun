@@ -1,0 +1,6 @@
+#! /usr/bin/fish
+
+echo test
+echo $argv
+sleep 5
+echo end
